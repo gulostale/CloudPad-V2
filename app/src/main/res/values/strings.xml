@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CloudPad</string>
+    <string name="no_notes">Ninguna nota aun</string>
+    <string name="action_create">Nueva nota</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_create_save">Guardar</string>
+    <string name="action_create_cancel">Cancelar</string>
+    <string name="action_edit_editing">Editar</string>
+    <string name="action_edit_save">Guardar</string>
+    <string name="action_edit_saving">Guardando &#8230;</string>
+    <string name="action_edit_saved">Guardado</string>
+    <string name="action_edit_cancel">Cancelar</string>
+    <string name="action_about">Info</string>
+    <string name="action_select_note">Selecionar nota</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="menu_copy">Copiar</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_about">Info</string>
+
+    <string name="copy">Copiar</string>
+
+    <string name="listview_updated_today">Hoy</string>
+    <string name="listview_updated_yesterday">Ayer</string>
+    <string name="listview_updated_this_week">Esta semana</string>
+    <string name="listview_updated_this_month">Este mes</string>
+    <string name="listview_updated_earlier">Hace tiempo</string>
+
+    <!-- Settings -->
+    <string name="settings_server">Servidor</string>
+    <string name="settings_url">Direccion de servidor</string>
+    <string name="settings_url_check_description">Muestra si se puede hacer ping al servidor.</string>
+    <string name="settings_url_warn_http">WARNING: "http" es inseguro. Usa "https".</string>
+    <string name="settings_username">Usuario</string>
+    <string name="settings_password">Contraseña</string>
+    <string name="settings_password_check_description">Muestra si el usuario es valido.</string>
+    <string name="settings_submit">Conectar</string>
+    <string name="settings_submitting">Conectando &#8230;</string>
+
+    <!-- Network -->
+    <string name="network_connecting">Conectando</string>
+    <string name="network_connected">Conectado</string>
+    <string name="network_disconnected">Red no disponible</string>
+
+    <!-- Error -->
+    <string name="error_json">JSON error</string>
+    <string name="error_io">IO error</string>
+    <string name="error_invalid_login">login invalido</string>
+    <string name="error_url_malformed">Servidor incorrecto</string>
+    <string name="error_username_password_invalid">usuario o contraseña incorrectos</string>
+
+    <!-- Snackbar Actions -->
+    <string name="snackbar_settings">Configuración</string>
+
+
+    <!-- About -->
+    <string name="about_version_title">Version</string>
+    <string name="about_version">Actualmente estas usando <strong>v1.0</strong></string>
+    <string name="about_maintainer_title">Administrador</string>
+    <string name="about_maintainer"><a href="https://github.com/Warsaw01">Antonio Alonzo</a></string>
+    <string name="about_developers_title">Desarrolladores</string>
+    <string name="about_developers">Jatar Atala, Antonio Alonzo, Angel Lizarraga</string>
+    <string name="about_source_title">Codigo fuente</string>
+    <string name="about_source">Proyecto hosteado en GitHub: <a href="https://github.com/gulostale/cloudpad">CloudPad</a></string>
+    <string name="about_issues_title">Reportes de fallo</string>
+    <string name="about_issues">Reporta los fallos que encuentres, propuestas de mejora y peticiones en la seccion de  GitHub "issue tracker": <a href="https://github.com/gulostale/cloudpad/issues">Enviar reporte</a></string>
+    <string name="about_app_license_title">Licencia de la app</string>
+    <string name="about_app_license">Esta aplicacion cuenta con licencia GNU GENERAL PUBLIC LICENSE v3+.</string>
+    <string name="about_app_license_button">Leer licencia</string>
+    <string name="about_app_icon_disclaimer_title">Diseño de icono</string>
+    <string name="about_app_icon_disclaimer"><p>Icono diseñado por: <a href="https://design.google.com/icons/" title="Google Material Design">Google Material Design</a></p></string>
+
+    <string name="about_credits_tab_title">Creditos</string>
+    <string name="about_contribution_tab_title">Contribucion</string>
+    <string name="about_license_tab_title">Licencia</string>
+
+    <string name="widget_all_notes_title">Todas las notas</string>
+    <string name="widget_single_note_title">Nota</string>
+</resources>
